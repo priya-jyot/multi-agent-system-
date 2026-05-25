@@ -1,0 +1,5 @@
+2026-05-23T13:13:21.923354 | market_research | Ollama is not running. Start it with: ollama serve && ollama run llama3
+2026-05-23T13:13:25.974238 | strategy | Ollama is not running. Start it with: ollama serve && ollama run llama3
+2026-05-23T13:13:30.023503 | strategy | Ollama is not running. Start it with: ollama serve && ollama run llama3
+2026-05-23T13:13:34.084426 | strategy | Ollama is not running. Start it with: ollama serve && ollama run llama3
+2026-05-23T13:13:38.156066 | report | Ollama is not running. Start it with: ollama serve && ollama run llama3

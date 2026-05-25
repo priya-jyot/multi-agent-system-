@@ -1,0 +1,116 @@
+[
+  {
+    "id": "20260525_220353",
+    "input": {
+      "business_name": "Britania",
+      "industry": "Food and grocery",
+      "target_audience": "Middle class people",
+      "competitors": [
+        "Parle"
+      ]
+    },
+    "timeline": [
+      {
+        "agent": "market_research",
+        "display_name": "Market Research Agent",
+        "status": "completed",
+        "duration_ms": 8056,
+        "timestamp": "2026-05-25T22:04:01.772647"
+      },
+      {
+        "agent": "competitor",
+        "display_name": "Competitor Intelligence Agent",
+        "status": "completed",
+        "duration_ms": 3843,
+        "timestamp": "2026-05-25T22:04:05.620194"
+      },
+      {
+        "agent": "sentiment",
+        "display_name": "Sentiment Analysis Agent",
+        "status": "completed",
+        "duration_ms": 1593,
+        "timestamp": "2026-05-25T22:04:07.225601"
+      },
+      {
+        "agent": "trend",
+        "display_name": "Trend Forecasting Agent",
+        "status": "completed",
+        "duration_ms": 1797,
+        "timestamp": "2026-05-25T22:04:09.030617"
+      },
+      {
+        "agent": "strategy",
+        "display_name": "Marketing Strategy Agent",
+        "status": "completed",
+        "duration_ms": 5191,
+        "timestamp": "2026-05-25T22:04:14.225023"
+      },
+      {
+        "agent": "report",
+        "display_name": "Report Generation Agent",
+        "status": "completed",
+        "duration_ms": 956,
+        "timestamp": "2026-05-25T22:04:15.188134"
+      }
+    ],
+    "report_id": "20260525_220353",
+    "timestamp": "2026-05-25T22:04:15.191372"
+  },
+  {
+    "id": "20260525_214013",
+    "input": {
+      "business_name": "Tesla",
+      "industry": "Automobile",
+      "target_audience": "Rich Businessmen",
+      "competitors": [
+        "Mercedes"
+      ]
+    },
+    "timeline": [
+      {
+        "agent": "market_research",
+        "display_name": "Market Research Agent",
+        "status": "completed",
+        "duration_ms": 12638,
+        "timestamp": "2026-05-25T21:40:25.900345"
+      },
+      {
+        "agent": "competitor",
+        "display_name": "Competitor Intelligence Agent",
+        "status": "completed",
+        "duration_ms": 3118,
+        "timestamp": "2026-05-25T21:40:29.020707"
+      },
+      {
+        "agent": "sentiment",
+        "display_name": "Sentiment Analysis Agent",
+        "status": "completed",
+        "duration_ms": 1535,
+        "timestamp": "2026-05-25T21:40:30.571584"
+      },
+      {
+        "agent": "trend",
+        "display_name": "Trend Forecasting Agent",
+        "status": "completed",
+        "duration_ms": 1779,
+        "timestamp": "2026-05-25T21:40:32.350811"
+      },
+      {
+        "agent": "strategy",
+        "display_name": "Marketing Strategy Agent",
+        "status": "completed",
+        "duration_ms": 5482,
+        "timestamp": "2026-05-25T21:40:37.833442"
+      },
+      {
+        "agent": "report",
+        "display_name": "Report Generation Agent",
+        "status": "completed",
+        "duration_ms": 911,
+        "timestamp": "2026-05-25T21:40:38.758689"
+      }
+    ],
+    "report_id": "20260525_214013",
+    "timestamp": "2026-05-25T21:40:38.758689"
+  }
+]
