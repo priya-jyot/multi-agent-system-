@@ -122,10 +122,10 @@ Multi-Agent/
 ### Step 2 — Open the project folder
 
 ```powershell
-cd f:\Multi-Agent
+
 ```
 
-*(Use your actual path if different.)*
+
 
 ### Step 3 — Create a virtual environment (recommended)
 
@@ -236,19 +236,6 @@ Each full research run produces:
 
 ---
 
-## Screenshots
-
-> Add screenshots after running the app for your report/viva.
-
-| Page | Placeholder |
-|------|-------------|
-| Dashboard | `docs/screenshots/dashboard.png` |
-| Research Workspace | `docs/screenshots/workspace.png` |
-| Agent Monitor | `docs/screenshots/monitor.png` |
-| Analytics | `docs/screenshots/analytics.png` |
-| Report Viewer | `docs/screenshots/reports.png` |
-
----
 
 ## Troubleshooting
 
@@ -265,29 +252,7 @@ Each full research run produces:
 
 Logs: `logs/execution_logs.txt`, `logs/agent_logs.txt`, `logs/errors.txt`
 
----
 
-## Viva Talking Points
-
-- **Why multi-agent?** Mirrors real marketing teams—specialists collaborate with handoffs  
-- **Why Groq?** Free tier, fast inference, no local GPU—works on low-spec laptops  
-- **Orchestration** — sequential pipeline with shared context (CrewAI-inspired, custom lightweight code)  
-- **Sentiment** — dual validation with VADER (social text) and TextBlob (polarity)  
-- **Storage** — JSON memory, no cloud DB—easy to explain and audit  
-
----
-
-## Future Enhancements
-
-- [ ] Parallel agent execution for faster runs  
-- [ ] RAG over uploaded PDFs (local embeddings)  
-- [ ] Scheduled research jobs  
-- [ ] Email report delivery (local SMTP)  
-- [ ] Custom agent personas via UI  
-- [ ] Export to PowerPoint  
-- [ ] SQLite cache for large scrape histories  
-
----
 
 ## Tech Stack
 
@@ -295,8 +260,3 @@ Python · Streamlit · Groq API (Llama 3.3 / Mixtral / Gemma) · Pandas · Plotl
 
 ---
 
-## License
-
-Educational / academic use. Groq API subject to [Groq terms](https://groq.com/terms/).
-
-**MarketMind AI** — *Think like a marketing team. Powered by Groq.*
